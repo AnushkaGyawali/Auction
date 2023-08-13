@@ -1,0 +1,322 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cu",
+				"customer"
+			],
+			[
+				"st",
+				"strong"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"b",
+				"br"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"td",
+				"data"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Arithmetic"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/Project/script",
+		"/C/xampp/htdocs/Project/db.php",
+		"/C/xampp/htdocs/Project/loginsystem.sql",
+		"/C/xampp/htdocs/Project/registration.php",
+		"/C/xampp/htdocs/Project/assets/css/templatemo-edu-meeting.css",
+		"/C/xampp/htdocs/Project/Home.html",
+		"/C/xampp/htdocs/Project/adminjob.php",
+		"/C/xampp/htdocs/Project/home.php",
+		"/C/xampp/htdocs/Project/Hom.html",
+		"/C/xampp/htdocs/Project/About_Us.html",
+		"/C/xampp/htdocs/Project/About_Us.css",
+		"/C/xampp/htdocs/Project/hom.php",
+		"/C/xampp/htdocs/Project/Contacts.php",
+		"/C/xampp/htdocs/Project/Contacts.html",
+		"/C/xampp/htdocs/Project/contact.php",
+		"/C/xampp/htdocs/test/allsearch.php",
+		"/C/xampp/htdocs/test/allsearchroundtrip.php",
+		"/C/xampp/htdocs/test/cartshow.php",
+		"/C/xampp/htdocs/test/onewaysearch.php",
+		"/C/xampp/htdocs/test/pay.php",
+		"/C/xampp/htdocs/test/registering.php",
+		"/C/xampp/htdocs/test/roundtripsearch.php",
+		"/C/xampp/htdocs/test/setting.php",
+		"/C/xampp/htdocs/test/showhistory.php",
+		"/C/xampp/htdocs/test/signin.php",
+		"/C/xampp/htdocs/test/ticket.php",
+		"/C/xampp/htdocs/test/Contacts.html",
+		"/C/xampp/htdocs/test/adminjob.php",
+		"/C/xampp/htdocs/test/adminpage.php",
+		"/C/xampp/htdocs/test/Home.html",
+		"/C/xampp/htdocs/test/register.php",
+		"/C/xampp/htdocs/test/Hom.html",
+		"/C/xampp/htdocs/test/hom.php",
+		"/C/xampp/htdocs/test/home.php",
+		"/C/xampp/htdocs/test/save.php",
+		"/C/xampp/htdocs/test/server.php",
+		"/C/xampp/htdocs/test/dbconnect.php",
+		"/C/xampp/htdocs/test/shoppingcart.php",
+		"/C/xampp/htdocs/test/demo.html",
+		"/C/xampp/htdocs/test/config.php",
+		"/C/xampp/htdocs/test/db.php",
+		"/C/xampp/htdocs/test/adminsearch.php",
+		"/C/xampp/htdocs/test/adminroundsearch.php",
+		"/C/xampp/htdocs/test/contact.php",
+		"/C/xampp/htdocs/test/adminadd.php",
+		"/C/xampp/htdocs/FinalProject/View/hom.php",
+		"/C/xampp/htdocs/airline/Model/contact.php",
+		"/D/All/finalproject/signup.html",
+		"/C/xampp/htdocs/FinalProject/Controls/Controler.php",
+		"/C/xampp/htdocs/FinalProject/Model/Database.php",
+		"/C/xampp/htdocs/FinalProject/View/allsearchroundtrip.php",
+		"/C/xampp/htdocs/FinalProject/View/allsearch.php",
+		"/D/last last/About_Us.html",
+		"/C/xampp/htdocs/FinalProject/View/dbconnect.php",
+		"/C/xampp/htdocs/FinalProject/View/pay.php",
+		"/C/xampp/htdocs/FinalProject/View/index.jpg",
+		"/C/xampp/htdocs/FinalProject/hom.php",
+		"/C/xampp/htdocs/FinalProject/index.php",
+		"/C/xampp/htdocs/FinalProject/View/config.php",
+		"/C/xampp/htdocs/FinalProject/View/register.php",
+		"/C/xampp/htdocs/FinalProject/Model/dbconnect.php",
+		"/C/xampp/htdocs/FinalProject/Model/contact.php",
+		"/C/xampp/htdocs/FinalProject/Model/adminjob.php",
+		"/C/xampp/htdocs/FinalProject/View/homee.php",
+		"/D/project ko modules/last last/Home.html",
+		"/C/xampp/htdocs/fourthsem/Home.php",
+		"/C/xampp/htdocs/fourthsem/adminpage.php",
+		"/C/xampp/htdocs/fourthsem/style.css",
+		"/C/xampp/htdocs/fourthsem/mystyle.css",
+		"/C/xampp/htdocs/fourthsem/cartshow.php",
+		"/C/xampp/htdocs/fourthsem/login.php",
+		"/C/xampp/htdocs/fourthsem/db.php",
+		"/C/xampp/htdocs/fourthsem/ticket.php",
+		"/C/xampp/htdocs/fourthsem/Contacts.html",
+		"/C/xampp/htdocs/fourthsem/registration.php",
+		"/C/xampp/htdocs/fourthsem/dbconnect.php",
+		"/C/xampp/htdocs/fourthsem/cartdelete.php",
+		"/C/xampp/htdocs/fourthsem/loginsystem.sql",
+		"/C/xampp/htdocs/fourthsem/pay.php",
+		"/C/xampp/htdocs/fourthsem/About_Us.html",
+		"/C/xampp/htdocs/fourthsem/allsearchroundtrip.php",
+		"/C/xampp/htdocs/fourthsem/About_Us.css",
+		"/C/xampp/htdocs/fourthsem/assets/js/owl-carousel.js",
+		"/C/xampp/htdocs/fourthsem/allsearch.php",
+		"/C/xampp/htdocs/fourthsem/roundtripsearch.php",
+		"/C/xampp/htdocs/fourthsem/onewaysearch.php",
+		"/C/xampp/htdocs/fourthsem/Home.html",
+		"/C/xampp/htdocs/Airlines-seat-reservation-boarding-pass-issuance-and-aircraft-boarding-main/loginasrs.php",
+		"/C/xampp/htdocs/fourthsem/ticket1.php",
+		"/C/xampp/htdocs/fourthsem/logout.php",
+		"/C/xampp/htdocs/registeration-login-system-master/login.php",
+		"/C/xampp/htdocs/fourthsem/adminroundsearch.php",
+		"/C/xampp/htdocs/fourthsem/adminsearch.php",
+		"/C/xampp/htdocs/fourthsem/adminjob.php",
+		"/C/xampp/htdocs/fourthsem/adminadd.php",
+		"/C/xampp/htdocs/fourthsem/mystyle",
+		"/C/xampp/htdocs/Project/homee.php",
+		"/C/xampp/htdocs/Project/home.html",
+		"/C/xampp/htdocs/fourthsem/home.php",
+		"/D/last last/Services.html",
+		"/C/xampp/htdocs/MinorProject/logindesign.css",
+		"/D/last last/Home.html",
+		"/C/xampp/htdocs/last last/Home.html",
+		"/C/xampp/htdocs/MinorProject/signupdesign.css",
+		"/C/xampp/htdocs/Project/homekolagioriginawala.php",
+		"/C/xampp/htdocs/Mini/plane.gif",
+		"/C/xampp/htdocs/Mini/style.css",
+		"/C/xampp/htdocs/Mini/registration.php",
+		"/C/xampp/htdocs/Project/signup.html",
+		"/C/xampp/htdocs/Mini/login.php",
+		"/C/xampp/htdocs/Mini/logout.php",
+		"/C/xampp/htdocs/Mini/index.php",
+		"/C/xampp/htdocs/Mini/db.php",
+		"/C/xampp/htdocs/Mini/dashboard.php",
+		"/C/xampp/htdocs/Mini/auth_session.php",
+		"/C/xampp/htdocs/last last/login_register.css",
+		"/C/xampp/htdocs/last last/login_register.html",
+		"/C/xampp/htdocs/suitable/FinalProject/View/dbconnect.php",
+		"/C/xampp/htdocs/MinorProject/format.css",
+		"/C/xampp/htdocs/Mini/README.md",
+		"/C/xampp/htdocs/registeration-login-system-master/db.php",
+		"/C/xampp/htdocs/registeration-login-system-master/index.php",
+		"/C/xampp/htdocs/registeration-login-system-master/logout.php",
+		"/C/xampp/htdocs/registeration-login-system-master/README.md",
+		"/C/xampp/htdocs/registeration-login-system-master/registration.php",
+		"/C/xampp/htdocs/registeration-login-system-master/style.css",
+		"/C/xampp/htdocs/registeration-login-system-master/auth_session.php",
+		"/C/xampp/htdocs/registeration-login-system-master/dashboard.php"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Dashboard.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 134.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
